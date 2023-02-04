@@ -771,6 +771,9 @@ section.skills::after{
   .navlinks ul{
     display: none;
   }
+  .hero-content .container.grid-2-col {
+    min-height: 0;
+  }
   /* .navlinks li:not(.bar){
     display: none;
   } */
